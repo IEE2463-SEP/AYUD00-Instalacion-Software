@@ -14,11 +14,11 @@ Visita este [link](https://www.youtube.com/watch?v=cnd4IJH-XsY&list=PLACEUah7BCQ
 
 ## 📂 Material
 
-Apoyate de la [documentación](https://github.com/IEE2463-SEP/AYUD00-Instalacion-Software/blob/main/How_to_Install_Vitis.pdf) asociada.
+Apoyate de la [documentación](https://github.com/IEE2463-SEP/AYUD00-Instalacion-Software/blob/HEAD/How_to_Install_Vitis.pdf) asociada.
 
 | Archivo | Descripción |
 | :--- | :--- |
-| [How_to_Install_Vitis.pdf](https://github.com/IEE2463-SEP/AYUD00-Instalacion-Software/blob/main/How_to_Install_Vitis.pdf) | Documentación asociada a la instalación. |
+| [How_to_Install_Vitis.pdf](https://github.com/IEE2463-SEP/AYUD00-Instalacion-Software/blob/HEAD/How_to_Install_Vitis.pdf) | Documentación asociada a la instalación. |
 
 ---
 
